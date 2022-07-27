@@ -1,0 +1,1 @@
+docker run -it -v C:\tmp\safelist:/usr/local/safelist joebart457/ip-safelist:0.0.1
